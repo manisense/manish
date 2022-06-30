@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer{
+  li{
+    @apply p-4;
+  }
+}
