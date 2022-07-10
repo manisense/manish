@@ -10,7 +10,7 @@ import Skill from './components/Skill';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App overflow-x-hidden">
       <Navbar />
       <Home />
       <About />
