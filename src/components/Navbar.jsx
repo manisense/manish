@@ -19,7 +19,7 @@ function Navbar() {
   
   return (
     <>
-      <div className="w-screen h-[80px] z-10 fixed drop-shadow-lg items-center bg-transparent text-gray-100">
+      <div className="w-screen h-[80px] z-10 fixed drop-shadow-lg items-center bg-gray-800 text-gray-100">
         <div className="flex p-2 align-middle justify-between items-center h-full w-full ">
           <div className="flex flex-auto items-center justify-center text-2xl ">
             <span className='font-bold'>Manish.</span>
