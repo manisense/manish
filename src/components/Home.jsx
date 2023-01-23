@@ -19,9 +19,9 @@ function Home() {
           </h1>
           <br />
           <h2 className="font-bold text-3xl text-center">
-            A
+            
             <span className="text-gray-300">
-              Full Stack Software Developer
+              A Full Stack Software Developer
             </span>
           </h2>
         </div>

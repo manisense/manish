@@ -22,11 +22,11 @@ function Skill() {
         Skills
       </div>
       <div className='flex mt-10'>
-      <Marquee pauseOnHover={true} speed={80}>
+      <Marquee  pauseOnHover={true} speed={80}>
       <div className="container flex items-center justify-center flex-wrap ">
           <div className="flex flex-col  max-w-xs  justify-center items-center p-1 m-1">
             <AiFillHtml5 size={85} className='cursor-pointer'/>
-            <h1 className="text-white text-2xl">html</h1>
+            <h1 className="text-white text-2xl">HTML</h1>
           </div>
         </div>
         <div className="container flex items-center justify-center flex-wrap ">
